@@ -1,5 +1,6 @@
 # Climate Analysis toolkit
 
-this is a set of python scripts designed to analyse climate data
-
 something 
+simething else
+simeting else
+>>>>>>> 40a0bf8dcad6c8f69739aafd9af2cb7a3daf421b
